@@ -1,2 +1,2 @@
-# TRepoG
-Repo for test git
+# Test repo for git education
+
